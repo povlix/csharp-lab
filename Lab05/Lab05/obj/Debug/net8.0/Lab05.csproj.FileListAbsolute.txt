@@ -1,0 +1,14 @@
+D:\Users\paulina.bednarz\source\repos\Lab05\Lab05\bin\Debug\net8.0\Lab05.exe
+D:\Users\paulina.bednarz\source\repos\Lab05\Lab05\bin\Debug\net8.0\Lab05.deps.json
+D:\Users\paulina.bednarz\source\repos\Lab05\Lab05\bin\Debug\net8.0\Lab05.runtimeconfig.json
+D:\Users\paulina.bednarz\source\repos\Lab05\Lab05\bin\Debug\net8.0\Lab05.dll
+D:\Users\paulina.bednarz\source\repos\Lab05\Lab05\bin\Debug\net8.0\Lab05.pdb
+D:\Users\paulina.bednarz\source\repos\Lab05\Lab05\obj\Debug\net8.0\Lab05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\paulina.bednarz\source\repos\Lab05\Lab05\obj\Debug\net8.0\Lab05.AssemblyInfoInputs.cache
+D:\Users\paulina.bednarz\source\repos\Lab05\Lab05\obj\Debug\net8.0\Lab05.AssemblyInfo.cs
+D:\Users\paulina.bednarz\source\repos\Lab05\Lab05\obj\Debug\net8.0\Lab05.csproj.CoreCompileInputs.cache
+D:\Users\paulina.bednarz\source\repos\Lab05\Lab05\obj\Debug\net8.0\Lab05.dll
+D:\Users\paulina.bednarz\source\repos\Lab05\Lab05\obj\Debug\net8.0\refint\Lab05.dll
+D:\Users\paulina.bednarz\source\repos\Lab05\Lab05\obj\Debug\net8.0\Lab05.pdb
+D:\Users\paulina.bednarz\source\repos\Lab05\Lab05\obj\Debug\net8.0\Lab05.genruntimeconfig.cache
+D:\Users\paulina.bednarz\source\repos\Lab05\Lab05\obj\Debug\net8.0\ref\Lab05.dll
